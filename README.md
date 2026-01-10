@@ -73,8 +73,7 @@ I bridge the gap between **Research** and **Production**. I don't just train mod
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=captainKLSH&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainKLSH&layout=compact&theme=radical)
+![**RESUME**](https://captainklsh.github.io/Portfolio-KJP/assests/projects/resume.html)
 
 ---
 
