@@ -6,7 +6,7 @@ I bridge the gap between **Research** and **Production**. I don't just train mod
 
 * **📍 Focus:** Generative AI (Agents/RAG), Computer Vision, & Reinforcement Learning.
 * **💡 Current Interest:** Agentic Workflows & Physics-Informed Transformers.
-* **🛠️ Core Stack:** Python, PyTorch, LangChain, AWS, Docker.
+* **🛠️ Core Stack:** Python, PyTorch, TensorFlow, LangChain, AWS, Docker.
 
 ---
 
@@ -73,8 +73,8 @@ I bridge the gap between **Research** and **Production**. I don't just train mod
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=captainKLSH&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainKLSH&layout=compact&theme=radical)
 
 ---
 
