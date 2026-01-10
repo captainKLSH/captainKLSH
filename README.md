@@ -26,17 +26,17 @@ I bridge the gap between **Research** and **Production**. I don't just train mod
 
 ### 🤖 Generative AI & Agentic Systems
 
-#### **[Autonomous Agentic Travel Planner](Link_to_Repo)**
+#### **[Autonomous Agentic Travel Planner](https://github.com/captainKLSH/End-to-End-AgenticAI-with-LLM-MLOps)**
 *An autonomous AI agent that orchestrates external tools to plan complex itineraries.*
 * **Tech:** Python 3.12, LangChain, `uv`, OpenWeather API, Google Search API.
 * **Key Achievement:** Orchestrated dynamic tool usage and implemented a modular **MLOps framework** with custom logging and robust exception handling for production-grade reliability.
 
-#### **[Solving Physics with Transformers (PDE-GPT)](Link_to_Repo)**
+#### **[Solving Physics with Transformers (PDE-GPT)](https://github.com/captainKLSH/PDE-GPT-Solving-Physics-with-Transformers-)**
 *Adapting NLP architectures to understand the laws of physics.*
 * **Tech:** PyTorch, Custom Transformer Architecture, NumPy.
 * **Key Achievement:** Accelerated physics simulations by **45%** by treating physical state sequences as autoregressive data streams, replacing standard NLP tokenization with continuous value embeddings.
 
-#### **[Semantically Aware Book Recommender (RAG)](Link_to_Repo)**
+#### **[Semantically Aware Book Recommender (RAG)](https://github.com/captainKLSH/Semantically-Aware-Book-Recommender-System)**
 *Retrieval Augmented Generation system for context-aware search.*
 * **Tech:** LangChain, Hugging Face Vector DB, DistilRoBERTa.
 * **Key Achievement:** Engineered a semantic search engine using high-dimensional embeddings, restoring dataset integrity with **78% accuracy** via Zero-Shot Classification.
@@ -45,12 +45,12 @@ I bridge the gap between **Research** and **Production**. I don't just train mod
 
 ### 👁️ Computer Vision & Healthcare
 
-#### **[End-to-End Chest Cancer Detection Pipeline](Link_to_Repo)**
+#### **[End-to-End Chest Cancer Detection Pipeline](https://github.com/captainKLSH/End-to-End-DeepLearning-Chest-Cancer-Classification)**
 *Full-stack MLOps pipeline for medical imaging diagnosis.*
 * **Tech:** PyTorch (VGG16), MLflow, Docker, AWS EC2/ECR.
 * **Key Achievement:** Attained **56% diagnostic accuracy** and enabled reproducible deployment by architecting a containerized CI/CD pipeline on AWS.
 
-#### **[Privacy-Centric Attendance Verification App](Link_to_Repo)**
+#### **[Privacy-Centric Attendance Verification App](--)**
 *A production mobile app combining Geofencing and Anti-Spoofing security.*
 * **Tech:** Flutter, Dart, GCP, Firestore, SQL.
 * **Key Achievement:** Neutralized GPS spoofing by engineering **spatial outlier detection algorithms** and reduced check-in times by **35%** through rigorous A/B testing on validation latency.
@@ -59,12 +59,12 @@ I bridge the gap between **Research** and **Production**. I don't just train mod
 
 ### 🧠 Reinforcement Learning & Optimization
 
-#### **[Vehicle Routing with Graph Attention Networks](Link_to_Repo)**
+#### **[Vehicle Routing with Graph Attention Networks](https://github.com/captainKLSH/Periodic-Vehicle-Routing-with-RL-and-Graph-Attention-Networks)**
 *Solving Logistics problems better than traditional Operations Research tools.*
 * **Tech:** Deep RL, Graph Attention Networks (GAT), Python.
 * **Key Achievement:** Collaborated with **Linde Inc.** to drive a **10% efficiency gain**, outperforming OR-Tools by implementing Policy Gradient methods on high-dimensional routing problems.
 
-#### **[Autonomous Parking with Model-Based RL](Link_to_Repo)**
+#### **[Autonomous Parking with Model-Based RL](https://github.com/captainKLSH/Model-Based-Reinforcement-Learning)**
 *Risk-aware robotics control using uncertainty modeling.*
 * **Tech:** GPyTorch (Gaussian Processes), PyTorch, Highway-env.
 * **Key Achievement:** Developed a "Mental Simulator" using Gaussian Processes to model vehicle dynamics with quantified uncertainty for safe trajectory planning.
@@ -79,5 +79,5 @@ I bridge the gap between **Research** and **Production**. I don't just train mod
 ---
 
 ### 📫 Connect with Me
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
-[![](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiranprasadjp)
+[![](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://captainklsh.github.io/Portfolio-KJP/)
