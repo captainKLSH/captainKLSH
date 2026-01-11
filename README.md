@@ -73,7 +73,9 @@ I bridge the gap between **Research** and **Production**. I don't just train mod
 
 ## 📈 GitHub Stats
 
-![**RESUME**](https://captainklsh.github.io/Portfolio-KJP/assests/projects/resume.html)
+📜[**RESUME**](https://captainklsh.github.io/Portfolio-KJP/assests/projects/resume.html)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
 
 ---
 
