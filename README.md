@@ -5,7 +5,7 @@
 I bridge the gap between **Research** and **Production**. I don't just train models in notebooks; I build the **end-to-end ecosystems**—from the mobile apps that collect data, to the cloud pipelines that process it, to the novel Deep Learning architectures that analyze it.
 
 * **📍 Focus:** Generative AI (Agents/RAG), Computer Vision, & Reinforcement Learning.
-* **💡 Current Interest:** Agentic Workflows & Physics-Informed Transformers.
+* **💡 Current Interest:** Agentic Workflows & Neural AI.
 * **🛠️ Core Stack:** Python, PyTorch, TensorFlow, LangChain, AWS, Docker.
 
 ---
